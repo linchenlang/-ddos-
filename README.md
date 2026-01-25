@@ -1,4 +1,4 @@
-# DDOS攻击与防御学习工具集
+# DOS攻击与防御学习工具集
 
 ## 📝 项目简介
 
@@ -28,7 +28,7 @@
 ## 🛠️ 包含的工具
 
 ### 1. TCP Flood攻击演示脚本 (`async_tcp_flood.py`)
-- **功能**：模拟TCP洪水攻击，演示DDoS攻击的基本原理
+- **功能**：模拟TCP洪水攻击，演示DoS攻击的基本原理
 - **特点**：
   - 支持多种攻击模式（快速、慢速、正常）
   - 可调节的并发连接数和攻击频率
@@ -168,3 +168,4 @@ python3 tcp_flood.py --threads 200 --duration 60 --rate 50
 - GitHub Issues：提交技术问题
 - 电子邮件：linchenlang@outlook.com
 - 安全报告：发现安全问题请私信联系
+
